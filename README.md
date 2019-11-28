@@ -35,3 +35,16 @@ In [Design](https://github.com/OfficineArduinoTorino/job-orienta-2019/tree/maste
 
 ## Arduino Libraries Used
 * [MQTT library](https://github.com/OfficineArduinoTorino/job-orienta-2019.git)
+
+
+## DHT sensor pin mapping
+
+rosso -->  3.3v 
+verde -->  gnd 
+bianco --> segnale
+
+## Grove Pin Mapping 
+
+Not the same module, but they are working the same
+
+![Grove Module](https://www.cytron.io/image/catalog/products/GRV-SW-420/pin_map.jpg)
