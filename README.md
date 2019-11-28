@@ -36,6 +36,8 @@ In [Design](https://github.com/OfficineArduinoTorino/job-orienta-2019/tree/maste
 ## Arduino Libraries Used
 * [MQTT library](https://github.com/OfficineArduinoTorino/job-orienta-2019.git)
 
+## Tutorials
+* [Interfacing Arduino MKR or ESP via MQTT - Node-RED 101](https://www.hackster.io/officine/interfacing-arduino-mkr-or-esp-via-mqtt-node-red-101-4833bc)
 
 ## DHT sensor pin mapping
 
