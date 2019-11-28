@@ -11,5 +11,7 @@ All Designs is from Fabrizio Alessio. Most codes are from Alberto Perro and Giul
 
 ## Structure of the Repository
 
-https://github.com/OfficineArduinoTorino/job-orienta-2019/blob/master/design/CANTINETTA%20ESPLOSO.stl
+<script src="https://embed.github.com/view/3d/OfficineArduinoTorino/job-orienta-2019/blob/master/design/CANTINETTA%20ESPLOSO.stl
+"></script>
+
 
