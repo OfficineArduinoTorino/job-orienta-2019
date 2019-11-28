@@ -32,3 +32,6 @@ In [Design](https://github.com/OfficineArduinoTorino/job-orienta-2019/tree/maste
 * [DHT22](https://create.arduino.cc/projecthub/mafzal/temperature-monitoring-with-dht22-arduino-15b013)
 * [Oleds!](https://lorenzocasaburo.it/arduino/utilizzare-display-oled-128x64-i2c-con-arduino/)
 * [Addressable LEDS](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
+
+## Arduino Libraries Used
+* [MQTT library](https://github.com/OfficineArduinoTorino/job-orienta-2019.git)
