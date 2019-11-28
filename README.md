@@ -5,11 +5,11 @@ Officine Innesto produced an early prototype for the students to start working o
 
 This Repository hosts most of the knoledge, codes and designs we worked on in the creation of the #SmartCellar
 
-http://www.its-energiapiemonte.it/wp-content/uploads/2017/09/logo_ITS_retina.jpg
+![Energia](http://www.its-energiapiemonte.it/wp-content/uploads/2017/09/logo_ITS_retina.jpg)
 
-http://www.its-ictpiemonte.it/wp-content/themes/its-site-theme-dist/assets/its-logo.png
+![ICT](http://www.its-ictpiemonte.it/wp-content/themes/its-site-theme-dist/assets/its-logo.png)
 
-https://www.its-tessileabbigliamentomoda.it/wp-content/uploads/2018/03/logo.png
+![Tessile](https://www.its-tessileabbigliamentomoda.it/wp-content/uploads/2018/03/logo.png)
 
 ### Credits ✍️
 
