@@ -7,7 +7,7 @@ This Repository hosts most of the knoledge, codes and designs we worked on in th
 
 ![Energia](http://www.its-energiapiemonte.it/wp-content/uploads/2017/09/logo_ITS_retina.jpg)
 
-![ICT](https://cdn-image.spaggiari.eu/pvw-cimg/TOIT0035/2255929_1024x0r72_hf9793.png)
+![ICT](http://www.sistemaits.it/public/loghi-fondazioni/logoITSICT_1501851440.png)
 
 ![Tessile](https://www.its-tessileabbigliamentomoda.it/wp-content/uploads/2018/03/logo.png)
 
